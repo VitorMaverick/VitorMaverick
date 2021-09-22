@@ -1,4 +1,4 @@
-Olá! Meu nome é Vitor Maveck, sou estudande e entusiata de programação e analise de dados.
+![alt text](./images/wave_top.svg)
 
 <div>
   <a href="https://github.com/VitorMaverick">
