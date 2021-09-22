@@ -1,11 +1,11 @@
 ![alt text](./images/wave_top.svg)
 
   
-<div style="display: inline_block"><br>
-  <p>    Sou estudante de Sistemas de Informação 
+<div style="display: inline_block;font-size: 40px"><br>
+  <p>Sou estudante de Sistemas de Informação  
 no IFMA, onde atualmente estou estudando padrões de projeto 
 com java e desenvolvimento mobile com flutter.  </p>
-  <p    >Durante minha trajetória no curso técnico e universidade tive 
+  <p>Durante minha trajetória no curso técnico e universidade tive 
 contato as linguagens c, python, java, javascript e dart. Meu 
 objetivo é aprender a desenvolver sistemas, que independente da 
 linguagem, sigam os principais padrões arquiteturais e de projeto. </p>
