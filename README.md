@@ -32,9 +32,9 @@ linguagem, sigam os principais padrões arquiteturais e de projeto. </p>
 ##
   
 <div> 
-  
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
+![alt text](./images/wave_bot.svg)
