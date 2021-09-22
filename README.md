@@ -37,4 +37,4 @@ linguagem, sigam os principais padrões arquiteturais e de projeto. </p>
  
 </div>
 
-![alt text](./images/wave_bot.svg)
+![alt text](./images/wave__bot.svg)
