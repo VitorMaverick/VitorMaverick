@@ -27,7 +27,6 @@ linguagem, sigam os principais padrões arquiteturais e de projeto. </p>
 <div>
   <a href="https://github.com/VitorMaverick">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMaverick&layout=compact&langs_count=7&theme=highcontrast&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorMaverick&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=truet"/>
 </div>
   
 ##
