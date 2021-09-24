@@ -1,4 +1,4 @@
-
+![alt text](./images/wave_top.svg)
 
 Sou estudante de Sistemas de Informação no IFMA, onde atualmente estou
 estudando padrões de projeto com java e desenvolvimento mobile com flutter.  
