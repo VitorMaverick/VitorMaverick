@@ -6,7 +6,7 @@ estudando padrões de projeto com java e desenvolvimento mobile com flutter.
 Durante minha trajetória no curso técnico e universidade tive 
 contato as linguagens c, python, java, javascript e dart. Meu 
 objetivo é aprender a desenvolver sistemas, que independente da 
-linguagem, sigam os principais padrões arquiteturais e de projeto. 
+linguagem, sigam os principais padrões arquiteturais e de projeto.  
   
   ##
   
