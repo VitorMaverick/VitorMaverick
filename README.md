@@ -2,9 +2,9 @@
 
 ## 👋 Sobre mim
 
-Sou desenvolvedor de software com 4 anos de experiência em sistemas de alta disponibilidade, atuando com microsserviços para processamento de pagamentos em larga escala (milhões de transações por dia). No dia a dia, trabalho com a stack **Java (SE/EE)**, **Spring Boot**, **AWS**, **Terraform**, **Docker**, **Kafka**, **RabbitMQ** e **PostgreSQL**. 
-
-Paralelamente, também sou entusiasta da área de dados. Através das disciplinas de **Introdução a Ciência de Dados** e **Introdução a Sistemas Inteligentes**, tive o primeiro contato contato com manipulação e analise de dados com Python e a bibliotecas  **NumPy**, **Pandas**, **Matplotlib** e **Seaborn**, além de introdução a conceitos como regressão, classificação, árvores de decisão, SVM, redes neurais e ensembles.
+4 anos de experiência com sistemas de pagamento em produção — Kafka, AWS, Terraform, microsserviços, milhões de transações.
+Migrando pra engenharia de dados. Python, Pandas, um pouco de ML.
+Estudante de Sistemas de Informação no IFMA.
 
 <div style="display: inline_block; font-size: 40px"><br>
   <a href="https://instagram.com/vericksss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
