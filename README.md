@@ -16,7 +16,7 @@ Paralelamente, também sou entusiasta da área de dados. Através das disciplina
 
 ---
 
-## 🛠️ Tecnologias que mais utilizo
+## 🛠️ Tecnologias mais utilizadas
 
 <div style="display: inline_block; margin: 20px 0;">
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -38,16 +38,11 @@ Paralelamente, também sou entusiasta da área de dados. Através das disciplina
 
 ---
 
-## 📊 GitHub
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="GitHub Snake Animation" src="https://githubusercontent.com">
+</picture>
 
-<div>
-  <a href="https://github.com/VitorMaverick">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMaverick&layout=compact&langs_count=7&theme=highcontrast&show_icons=true"/>
-  </a>
-</div>
-
-<div> 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 ![alt text](./images/wave_bot.svg)
