@@ -39,10 +39,13 @@ Paralelamente, também sou entusiasta da área de dados. Através das disciplina
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="raw/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="raw/output/github-snake.svg">
-  <img alt="GitHub Snake Animation" src="raw/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com" style="display: none;">
+  <!-- O truque oficial para ler de outra branch no próprio repositório: -->
+  <source media="(prefers-color-scheme: dark)" srcset="../output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="../output/github-snake.svg">
+  <img alt="GitHub Snake Animation" src="../output/github-snake.svg">
 </picture>
+
 
 
 ![alt text](./images/wave_bot.svg)
