@@ -39,9 +39,9 @@ Paralelamente, também sou entusiasta da área de dados. Através das disciplina
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://jsdelivr.net">
-  <source media="(prefers-color-scheme: light)" srcset="https://jsdelivr.net">
-  <img alt="GitHub Snake Animation" src="https://jsdelivr.net">
+  <source media="(prefers-color-scheme: dark)" srcset="raw/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="raw/output/github-snake.svg">
+  <img alt="GitHub Snake Animation" src="raw/output/github-snake.svg">
 </picture>
 
 
