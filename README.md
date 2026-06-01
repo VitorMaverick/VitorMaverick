@@ -1,4 +1,4 @@
-![alt text](./images/wave_top.svg)
+![alt text](./images/wave_top_v2.svg)
 
 ## 👋 Sobre mim
 
