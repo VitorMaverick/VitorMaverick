@@ -1,0 +1,80 @@
+<svg width="100%" viewBox="0 0 690 211.89" role="img" xmlns="http://www.w3.org/2000/svg" style="">
+<title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">GitHub banner profissional</title>
+<desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Banner mostrando stack de backend/infra à esquerda, transição para engenharia de dados à direita</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </marker>
+</defs>
+
+<rect width="680" height="200" rx="12" fill="#0d1117" style="fill:rgb(13, 17, 23);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<text x="340" y="30" text-anchor="middle" font-family="monospace" font-size="11" fill="#8b949e" letter-spacing="2" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">github.com</text>
+
+<text x="340" y="58" text-anchor="middle" font-family="monospace" font-size="20" font-weight="700" fill="#e6edf3" style="fill:rgb(230, 237, 243);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:20px;font-weight:700;text-anchor:middle;dominant-baseline:auto">backend → data engineering</text>
+
+<line x1="120" y1="78" x2="560" y2="78" stroke="#21262d" stroke-width="1" style="fill:rgb(0, 0, 0);stroke:rgb(33, 38, 45);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<text x="40" y="102" font-family="monospace" font-size="11" fill="#8b949e" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">stack</text>
+
+<g font-family="monospace" font-size="12" font-weight="600" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:start;dominant-baseline:auto">
+  <rect x="38" y="110" width="56" height="22" rx="4" fill="#1f2d3d" stroke="#1f6feb" stroke-width="1" style="fill:rgb(31, 45, 61);stroke:rgb(31, 111, 235);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:start;dominant-baseline:auto"/>
+  <text x="66" y="125" text-anchor="middle" fill="#58a6ff" style="fill:rgb(88, 166, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:middle;dominant-baseline:auto">Java</text>
+
+  <rect x="102" y="110" width="80" height="22" rx="4" fill="#1f2d3d" stroke="#1f6feb" stroke-width="1" style="fill:rgb(31, 45, 61);stroke:rgb(31, 111, 235);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:start;dominant-baseline:auto"/>
+  <text x="142" y="125" text-anchor="middle" fill="#58a6ff" style="fill:rgb(88, 166, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:middle;dominant-baseline:auto">Spring Boot</text>
+
+  <rect x="190" y="110" width="44" height="22" rx="4" fill="#1b2a1b" stroke="#3fb950" stroke-width="1" style="fill:rgb(27, 42, 27);stroke:rgb(63, 185, 80);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:start;dominant-baseline:auto"/>
+  <text x="212" y="125" text-anchor="middle" fill="#3fb950" style="fill:rgb(63, 185, 80);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:middle;dominant-baseline:auto">AWS</text>
+
+  <rect x="242" y="110" width="70" height="22" rx="4" fill="#1b2a1b" stroke="#3fb950" stroke-width="1" style="fill:rgb(27, 42, 27);stroke:rgb(63, 185, 80);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:start;dominant-baseline:auto"/>
+  <text x="277" y="125" text-anchor="middle" fill="#3fb950" style="fill:rgb(63, 185, 80);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:middle;dominant-baseline:auto">Terraform</text>
+
+  <rect x="320" y="110" width="52" height="22" rx="4" fill="#1b2a1b" stroke="#3fb950" stroke-width="1" style="fill:rgb(27, 42, 27);stroke:rgb(63, 185, 80);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:start;dominant-baseline:auto"/>
+  <text x="346" y="125" text-anchor="middle" fill="#3fb950" style="fill:rgb(63, 185, 80);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:middle;dominant-baseline:auto">Docker</text>
+
+  <rect x="380" y="110" width="48" height="22" rx="4" fill="#2d1f3d" stroke="#a371f7" stroke-width="1" style="fill:rgb(45, 31, 61);stroke:rgb(163, 113, 247);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:start;dominant-baseline:auto"/>
+  <text x="404" y="125" text-anchor="middle" fill="#a371f7" style="fill:rgb(163, 113, 247);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:middle;dominant-baseline:auto">Kafka</text>
+
+  <rect x="436" y="110" width="74" height="22" rx="4" fill="#2d1f3d" stroke="#a371f7" stroke-width="1" style="fill:rgb(45, 31, 61);stroke:rgb(163, 113, 247);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:start;dominant-baseline:auto"/>
+  <text x="473" y="125" text-anchor="middle" fill="#a371f7" style="fill:rgb(163, 113, 247);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:middle;dominant-baseline:auto">RabbitMQ</text>
+
+  <rect x="518" y="110" width="86" height="22" rx="4" fill="#2d1f1b" stroke="#f78166" stroke-width="1" style="fill:rgb(45, 31, 27);stroke:rgb(247, 129, 102);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:start;dominant-baseline:auto"/>
+  <text x="561" y="125" text-anchor="middle" fill="#f78166" style="fill:rgb(247, 129, 102);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:middle;dominant-baseline:auto">PostgreSQL</text>
+</g>
+
+<text x="40" y="156" font-family="monospace" font-size="11" fill="#8b949e" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:11px;font-weight:400;text-anchor:start;dominant-baseline:auto">learning</text>
+
+<g font-family="monospace" font-size="12" font-weight="600" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:start;dominant-baseline:auto">
+  <rect x="38" y="164" width="60" height="22" rx="4" fill="#1f2a1f" stroke="#56d364" stroke-width="1.5" style="fill:rgb(31, 42, 31);stroke:rgb(86, 211, 100);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:start;dominant-baseline:auto"/>
+  <text x="68" y="179" text-anchor="middle" fill="#56d364" style="fill:rgb(86, 211, 100);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:middle;dominant-baseline:auto">Python</text>
+
+  <rect x="106" y="164" width="52" height="22" rx="4" fill="#1f2a1f" stroke="#56d364" stroke-width="1.5" style="fill:rgb(31, 42, 31);stroke:rgb(86, 211, 100);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:start;dominant-baseline:auto"/>
+  <text x="132" y="179" text-anchor="middle" fill="#56d364" style="fill:rgb(86, 211, 100);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:middle;dominant-baseline:auto">Pandas</text>
+
+  <rect x="166" y="164" width="56" height="22" rx="4" fill="#1f2a1f" stroke="#56d364" stroke-width="1.5" style="fill:rgb(31, 42, 31);stroke:rgb(86, 211, 100);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:start;dominant-baseline:auto"/>
+  <text x="194" y="179" text-anchor="middle" fill="#56d364" style="fill:rgb(86, 211, 100);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:middle;dominant-baseline:auto">Airflow</text>
+
+  <rect x="230" y="164" width="44" height="22" rx="4" fill="#1f2a1f" stroke="#56d364" stroke-width="1.5" style="fill:rgb(31, 42, 31);stroke:rgb(86, 211, 100);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:start;dominant-baseline:auto"/>
+  <text x="252" y="179" text-anchor="middle" fill="#56d364" style="fill:rgb(86, 211, 100);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:middle;dominant-baseline:auto">Spark</text>
+
+  <rect x="282" y="164" width="36" height="22" rx="4" fill="#1f2a1f" stroke="#56d364" stroke-width="1.5" style="fill:rgb(31, 42, 31);stroke:rgb(86, 211, 100);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:start;dominant-baseline:auto"/>
+  <text x="300" y="179" text-anchor="middle" fill="#56d364" style="fill:rgb(86, 211, 100);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:middle;dominant-baseline:auto">dbt</text>
+
+  <rect x="326" y="164" width="50" height="22" rx="4" fill="#21262d" stroke="#8b949e" stroke-width="1" stroke-dasharray="3,2" style="fill:rgb(33, 38, 45);stroke:rgb(139, 148, 158);color:rgb(0, 0, 0);stroke-width:1px;stroke-dasharray:3px, 2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:start;dominant-baseline:auto"/>
+  <text x="351" y="179" text-anchor="middle" fill="#8b949e" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:middle;dominant-baseline:auto">SQL++</text>
+
+  <rect x="384" y="164" width="68" height="22" rx="4" fill="#21262d" stroke="#8b949e" stroke-width="1" stroke-dasharray="3,2" style="fill:rgb(33, 38, 45);stroke:rgb(139, 148, 158);color:rgb(0, 0, 0);stroke-width:1px;stroke-dasharray:3px, 2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:start;dominant-baseline:auto"/>
+  <text x="418" y="179" text-anchor="middle" fill="#8b949e" style="fill:rgb(139, 148, 158);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:middle;dominant-baseline:auto">Delta Lake</text>
+
+  <text x="462" y="179" font-family="monospace" font-size="12" fill="#484f58" style="fill:rgb(72, 79, 88);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:12px;font-weight:600;text-anchor:start;dominant-baseline:auto">· · ·</text>
+</g>
+
+<rect x="38" y="193" width="8" height="8" rx="2" fill="#1f6feb" style="fill:rgb(31, 111, 235);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="50" y="200" font-family="monospace" font-size="9" fill="#484f58" style="fill:rgb(72, 79, 88);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:9px;font-weight:400;text-anchor:start;dominant-baseline:auto">dominado</text>
+<rect x="102" y="193" width="8" height="8" rx="2" fill="#56d364" style="fill:rgb(86, 211, 100);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="114" y="200" font-family="monospace" font-size="9" fill="#484f58" style="fill:rgb(72, 79, 88);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:9px;font-weight:400;text-anchor:start;dominant-baseline:auto">em transição</text>
+<rect x="178" y="193" width="8" height="8" rx="2" fill="#21262d" stroke="#8b949e" stroke-width="1" style="fill:rgb(33, 38, 45);stroke:rgb(139, 148, 158);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="190" y="200" font-family="monospace" font-size="9" fill="#484f58" style="fill:rgb(72, 79, 88);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:monospace;font-size:9px;font-weight:400;text-anchor:start;dominant-baseline:auto">próximos passos</text>
+
+</svg>
